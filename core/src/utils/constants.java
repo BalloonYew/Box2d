@@ -9,6 +9,6 @@ package utils;
  * @author prudm7411
  */
 public final class constants {
-    public static final float PPM =
+    public static final float PPM = 32;
     
 }
