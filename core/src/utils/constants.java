@@ -9,6 +9,7 @@ package utils;
  * @author prudm7411
  */
 public final class constants {
+    //scales down everything
     public static final float PPM = 32;
     
 }
